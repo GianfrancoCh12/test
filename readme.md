@@ -1,3 +1,1 @@
-#Hi
-
-#hello
+#ONLY SAYS HELLO NOW
